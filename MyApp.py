@@ -1,6 +1,6 @@
 from PyQt6.QtWidgets import QApplication, QMainWindow
 
-from Ex124.Ex124.MainWindowEx import MainWindowEx
+from UiFileEx import MainWindowEx
 
 app=QApplication([])
 myWindow=MainWindowEx()
